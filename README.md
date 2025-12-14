@@ -111,7 +111,21 @@ This project aims to answer questions such as:
 ## 📁 Files
 
 - `TextAnalytics.ipynb` – Complete notebook with all sections and outputs  
-- `News_Category_Dataset_v3.json` – News articles dataset  
+
+---
+
+## 📂 Dataset
+
+Due to size constraints, the dataset is **not included** in this repository.
+
+- **Dataset Name**: News Category Dataset  
+- **Source**: Kaggle  
+- **Link**: https://www.kaggle.com/datasets/rmisra/news-category-dataset
+
+To run the notebook:
+1. Download the dataset from Kaggle
+2. Place the JSON file in the project directory
+3. Update the dataset path in the notebook if required
 
 ---
 
