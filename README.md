@@ -101,10 +101,10 @@ This project aims to answer questions such as:
 
 ## 📈 Future Improvements
 
-- 🔹 Implement custom Viterbi algorithm from scratch  
-- 🔹 Use word embeddings (Word2Vec / GloVe)  
-- 🔹 Improve topic coherence using advanced topic models  
-- 🔹 Apply the pipeline to domain-specific corpora  
+-  Implement custom Viterbi algorithm from scratch  
+-  Use word embeddings (Word2Vec / GloVe)  
+-  Improve topic coherence using advanced topic models  
+-  Apply the pipeline to domain-specific corpora  
 
 ---
 
